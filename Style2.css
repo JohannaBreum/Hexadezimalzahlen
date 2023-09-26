@@ -1,0 +1,10 @@
+body {background-color: #f3ede6;}
+h1{color: #648181; text-align: center;}
+h4{color: #648181;}
+h3{color:#132b2d;}
+table{border: 1px solid black;width:500px;border-spacing:0px}
+.RGB-Farben {width: 100%;}
+td, tr, th {border:1px solid black;}
+#intro {padding: 10px;text-align: center; background: #edc3ae;}
+#intro text {color: #132b2d;}
+#bfcdcc #edc3ae #f3ede6 #648181 #132b2d
